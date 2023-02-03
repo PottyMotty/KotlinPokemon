@@ -13,6 +13,7 @@ import androidx.compose.ui.unit.dp
 import com.myapp.ui.value.R
 
 //added comment
+//another comment
 @Composable
 fun MainScreen(
     viewModel: MainViewModel,
